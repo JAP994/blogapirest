@@ -2,6 +2,8 @@
  
 Configurar la base de datos en el archivo .env
 
+composer update
+
 npm install
 
 php artisan migrate:install
